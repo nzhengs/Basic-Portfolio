@@ -1,2 +1,2 @@
-# Basic-Portfolio
-Protfolia
+# Basic-Portfolio 
+Basic Portfolio Wireframe
